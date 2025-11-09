@@ -1,8 +1,4 @@
-Project Title:
-
-SkillMatch Connect – Smart Skill-Based Student Job Recommendation System
-Problem Statement
-
+Project Title: SkillMatch Connect – Smart Skill-Based Student Job Recommendation System
 Many young people struggle to find jobs that truly match their skills and interests. Even after completing training programs, they don’t receive timely updates about suitable job openings. Companies, on the other hand, receive large numbers of unqualified applications, wasting time and resources. NGOs and government programs also face challenges in tracking how effectively their skill development initiatives lead to employment. Currently, there is no unified system that seamlessly connects students, employers, and training providers.
 Proposed Salesforce Solution
 
